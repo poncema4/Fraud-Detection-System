@@ -1,0 +1,11 @@
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.2
+sqlalchemy==2.0.15
+psycopg2-binary==2.9.6
+fastapi==0.95.2
+uvicorn==0.22.0
+python-dotenv==1.0.0
+schedule==1.2.0
+joblib==1.2.0
+streamlit==1.22.0
